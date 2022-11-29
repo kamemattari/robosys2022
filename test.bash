@@ -1,6 +1,5 @@
 #!/bin/bash -xv
-# SPDX-...
-# SPDX-...
+# SPDX-FileCopyrightTest: 2022 Aika Katsuki
 
 ng () {
 	echo ${1}行目が違うよ
