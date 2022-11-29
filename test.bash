@@ -1,5 +1,6 @@
 #!/bin/bash -xv
 # SPDX-FileCopyrightTest: 2022 Aika Katsuki
+# SPDX-License-Identifier: BSD-3-Clause
 
 ng () {
 	echo ${1}行目が違うよ
