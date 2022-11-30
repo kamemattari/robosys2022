@@ -1,12 +1,14 @@
 ![test](https://github.com/kamemattari/robosys_plus/actions/workflows/test.yml/badge.svg)
 #install
 * インストール方法
-* $ git clone https://github.com/kamemattari/robosys_plus.git
-* $ cd robosys_plus
+$ git clone https://github.com/kamemattari/robosys_plus.git
+$ cd robosys_plus
 
 # plusコマンド
+
 標準入力から読み込んだ数字を足していく。
  * 使い方
+
 $ seq 3| ./plus
 6 #1から3までの和#
 
