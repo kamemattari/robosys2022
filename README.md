@@ -1,8 +1,8 @@
 ![test](https://github.com/kamemattari/robosys_plus/actions/workflows/test.yml/badge.svg)
 #install
-インストール方法
-$ git clone https://github.com/kamemattari/robosys_plus.git
-$ cd robosys_plus
+* インストール方法
+* $ git clone https://github.com/kamemattari/robosys_plus.git
+* $ cd robosys_plus
 
 # plusコマンド
 標準入力から読み込んだ数字を足していく。
