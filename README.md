@@ -3,7 +3,7 @@
 
 ![test](https://github.com/kamemattari/robosys_plus/actions/workflows/test.yml/badge.svg)
 
-* インストール方法
+# インストール方法
 ```
 $ git clone https://github.com/kamemattari/robosys2022.git
 $ cd robosys2022
